@@ -1,0 +1,12 @@
+C:\Users\alier\Desktop\CyrptoMania\Erguc.CryptoMania\Crypt\bin\Debug\net6.0\Crypt.deps.json
+C:\Users\alier\Desktop\CyrptoMania\Erguc.CryptoMania\Crypt\bin\Debug\net6.0\Crypt.dll
+C:\Users\alier\Desktop\CyrptoMania\Erguc.CryptoMania\Crypt\bin\Debug\net6.0\Crypt.pdb
+C:\Users\alier\Desktop\CyrptoMania\Erguc.CryptoMania\Crypt\obj\Debug\net6.0\Crypt.csproj.AssemblyReference.cache
+C:\Users\alier\Desktop\CyrptoMania\Erguc.CryptoMania\Crypt\obj\Debug\net6.0\Crypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alier\Desktop\CyrptoMania\Erguc.CryptoMania\Crypt\obj\Debug\net6.0\Crypt.AssemblyInfoInputs.cache
+C:\Users\alier\Desktop\CyrptoMania\Erguc.CryptoMania\Crypt\obj\Debug\net6.0\Crypt.AssemblyInfo.cs
+C:\Users\alier\Desktop\CyrptoMania\Erguc.CryptoMania\Crypt\obj\Debug\net6.0\Crypt.csproj.CoreCompileInputs.cache
+C:\Users\alier\Desktop\CyrptoMania\Erguc.CryptoMania\Crypt\obj\Debug\net6.0\Crypt.dll
+C:\Users\alier\Desktop\CyrptoMania\Erguc.CryptoMania\Crypt\obj\Debug\net6.0\refint\Crypt.dll
+C:\Users\alier\Desktop\CyrptoMania\Erguc.CryptoMania\Crypt\obj\Debug\net6.0\Crypt.pdb
+C:\Users\alier\Desktop\CyrptoMania\Erguc.CryptoMania\Crypt\obj\Debug\net6.0\ref\Crypt.dll
